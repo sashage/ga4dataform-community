@@ -37,7 +37,7 @@ js {
 
 /* incrementality */
 pre_operations {
-  declare date_checkpoint DATE
+  declare date_checkpoint DATE;
   ---
   set date_checkpoint = (
     ${when(incremental(),
