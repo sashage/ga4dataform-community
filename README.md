@@ -1,3 +1,10 @@
+This is a fork that contain some minor personal adjustments to fix compiling errors.
+You find the original repo at [https://github.com/superformlabs/ga4dataform-community](https://github.com/superformlabs/ga4dataform-community)
+
+Original README below:
+
+---------
+
 # GA4Dataform Community
 
 GA4Dataform Community is the open-source version of GA4Dataform Core.
